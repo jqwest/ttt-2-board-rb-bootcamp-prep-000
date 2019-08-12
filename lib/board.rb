@@ -2,4 +2,3 @@
 board = "Table"
 
 puts board
-
