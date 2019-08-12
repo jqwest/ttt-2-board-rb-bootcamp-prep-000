@@ -1,4 +1,4 @@
 # Define the variable board below.
-table = "board"
+board = "Table"
 
-puts board
+
